@@ -36,6 +36,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 * [Blocknote](https://www.blocknotejs.org/) - An extensible React rich text editor with support for block-based editing, collaboration and comes with ready-to-use customizable UI components.
 * [Zustand](https://zustand-demo.pmnd.rs/) - A state management tool for managing state. A centralized state and reducing prop drilling in application
 
+
+## Features of the application
+
 ## Application Images
 * Notecraft (Dark Mode)
 ![note-d](https://github.com/user-attachments/assets/6de1bd02-da75-45d1-9ba1-db5cb9b500ef)
